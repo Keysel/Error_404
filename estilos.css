@@ -12,11 +12,10 @@ body{ background-color:whitesmoke; height: 100vh;}
 
 
 
-.main__article-image{width:95%; height: 450px;}
+.main__article-image{width:100%; height: 500px;}
 
 .main__article{
     width:100%;
-    padding:3% 0%;
     text-align:center;}
 
 .main__texto{
