@@ -21,6 +21,7 @@ body{ background-color:whitesmoke; height: 100vh;}
 .main__texto{
     width: 100%;
     height: 310px;
+    margin-top:3%;
     background: mediumslateblue;
     padding:2%;
     font-size: 1em;
